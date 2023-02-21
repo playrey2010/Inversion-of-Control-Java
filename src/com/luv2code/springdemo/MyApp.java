@@ -10,5 +10,7 @@ public class MyApp {
         // Coach theCoach = new TrackCoach(); // We used IntelliJ to autocreate TrackCoach with interface implementation
         // Use the object
         // System.out.println(theCoach.getDailyWorkout());
+
+
     }
 }
