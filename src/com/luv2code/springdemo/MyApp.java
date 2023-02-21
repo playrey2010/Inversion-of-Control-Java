@@ -7,8 +7,8 @@ public class MyApp {
 
         // INTERFACE IDENTIFIER = NEW CLASSCONSTRUCTOR()
         // Coach theCoach = new BaseballCoach(); CHANGED to...
-        Coach theCoach = new TrackCoach(); // We used IntelliJ to autocreate TrackCoach with interface implementation
+        // Coach theCoach = new TrackCoach(); // We used IntelliJ to autocreate TrackCoach with interface implementation
         // Use the object
-        System.out.println(theCoach.getDailyWorkout());
+        // System.out.println(theCoach.getDailyWorkout());
     }
 }
